@@ -2,8 +2,6 @@ from pyftpdlib.authorizers import DummyAuthorizer
 from pyftpdlib.handlers import FTPHandler
 from pyftpdlib.servers import FTPServer
 
-#"C:\Users\33shu\Documents\Coding\FTP-Practice_Directory\user1"
-
 COMPANY_PATH = "./FTP-Practice_Directory/user1"
 BANK_PATH = "./FTP-Practice_Directory/user2"
 
